@@ -105,5 +105,12 @@ You are an ATS expert with a deep understanding of resume parsing and keyword ma
 ## **Sample Outputs**
 
 
+![WhatsApp Image 2025-01-12 at 00 37 58_e5cee226](https://github.com/user-attachments/assets/2df24d86-37f4-4794-b462-110c6f8e7f7a)
+![WhatsApp Image 2025-01-12 at 00 38 16_15165f7d](https://github.com/user-attachments/assets/f18a3937-72bb-4add-8901-38a5b7fbf6ae)
+![WhatsApp Image 2025-01-12 at 00 38 57_2dde7bb2](https://github.com/user-attachments/assets/6ae00efb-bd2b-494b-99e6-3aa13d5bf50f)
+![WhatsApp Image 2025-01-12 at 00 39 19_fc9e552a](https://github.com/user-attachments/assets/324b3a68-0433-4dad-ac8c-43ab412f18ea)
+
+
+
 
 
