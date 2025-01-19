@@ -1,4 +1,4 @@
-# ATS Resume Application Tracking System
+# ATS Resume Application Evaluation System
 
 This project is a comprehensive **Application Tracking System (ATS)** built using **Google Generative AI** and **Streamlit**. The ATS helps job applicants improve their resumes by matching them with job descriptions, calculating a percentage match, and suggesting areas for improvement. This tool is ideal for understanding how resumes align with specific roles and optimizing job applications for modern hiring systems.
 
